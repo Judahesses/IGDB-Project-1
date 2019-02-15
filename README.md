@@ -1,6 +1,7 @@
 # IGDB-Project-1
 
-• Judah Esses "\n"
+• Judah Esses 
+
 • Alex Gaujean
 
 
