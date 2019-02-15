@@ -1,5 +1,8 @@
 # IGDB-Project-1
 
+• Judah Esses
+• Alex Gaujean
+
   For our first project, we have decided to grab video game data from a video game database and analyze how video games has changed over the last 15+ years. 
   
   We were curious to know if there were any trends in the terms of game genres and review ratings, offered on the three major video game platforms, as well as seeing how video games either got better or worse as the years went by. 
