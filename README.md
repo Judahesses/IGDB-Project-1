@@ -1,7 +1,7 @@
 # IGDB-Project-1
 
-  For our project 1, we decided to grab video game data from a video game database and analyze how video games has changed over the last 15+ years. 
-----------
+  For our first project, we have decided to grab video game data from a video game database and analyze how video games has changed over the last 15+ years. 
+
 1. API
 2. Pandas
 3. Matplotlib
