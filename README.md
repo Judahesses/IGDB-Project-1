@@ -1,11 +1,11 @@
 # IGDB-Project-1
 
   For our project 1, we decided to grab video game data from a video game database and analyze how video games has changed over the last 15+ years. 
-
-# API
-# Pandas
-# Matplotlib
-# Datetime
+----------
+1. API
+2. Pandas
+3. Matplotlib
+4. Datetime
 
   We grabbed our data from the IGBD (Internet Game Database) API, using get requests, layed out all the data on DataFrames using pandas, and plotted the data using matplotlib. We also imported datetime to change the release dates of the video games from epoch unix to human readable. 
 
